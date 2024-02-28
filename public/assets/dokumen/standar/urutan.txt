@@ -1,0 +1,18 @@
+IGD Triage
+IGD Covid
+ICU
+Perinatologi
+NICU
+Isolasi Covid & ICU Covid
+HCU Penyakit Dalam
+HCU Penyakit Syaraf
+Instalasi Bedah Sentral
+Perawatan Kelas I, II, III & VIP
+Rawat Jalan
+Radiologi
+Laboratorium
+Farmasi
+Gizi
+Pemulasaraan Jenazah
+Rekam Medik
+Ambulance
